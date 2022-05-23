@@ -49,3 +49,6 @@ Your tasks are to create 2 pipelines that fulfill the following requirements. St
 
 You can verify the results of your actions configuration by opening the Github Actions tab
 ![image](https://user-images.githubusercontent.com/53174255/169791122-441adc69-ec82-40fc-bef7-af6df412dea3.png)
+
+
+Some changes
